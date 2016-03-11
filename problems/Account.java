@@ -1,6 +1,6 @@
 /*
 
-Please refactor the below into Java 8 compaitble code.
+Please refactor the below into Java 8 compatible code.
 
 */
 
