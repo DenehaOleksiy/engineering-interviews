@@ -20,6 +20,8 @@ You may either:
 
 **DO NOT DO ALL 4**
 
+**DO NOT SPEND MORE THAN 2 HOURS**
+
 ## Step 3
 
 Make a pull request against *YOUR* fork (not ours)
