@@ -1,8 +1,8 @@
 ## Software architecture
 
-Your integration tests call out to a payment processor's test environment in order to utilize their API. This is done in order to assert that it can correctly communicate with them.
+Your integration tests call out to an external third party payment processor's test environment in order to utilize their API. This is part of our acceptance test suite in order to assert that our service may correctly communicate with them.
 
-However, their staging environment is not robust and tends to fall over whenever more than one engineer runs the tests at once. This is causing our test runs to fail randomly.
+However, the payment processor's test environment only allows one engineer to run their acceptance tests against it one at a time. If any more engineers run their tests at the same time, their test environment crashes and our acceptance tests will fail randomly. 
 
 1. Give us two approaches we could take to try and reduce these failures.
-2. What are the benefits and issues with each?
+2. Please discuss the pros and cons with your approaches.
