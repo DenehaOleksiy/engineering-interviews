@@ -1,6 +1,16 @@
 /*
 
-Please refactor the below into Java 8 compatible code.
+This class was written by a very junior Java engineer. 
+
+There are at least 10 things wrong with this class. 
+
+We would like you identify all 10 things that are wrong and
+refactor the class below into Java 8 compatible code.
+
+Please *EXPLAIN* clearly *WHAT* you are changing.
+
+You will be graded based on CLEAR EXPLANATIONS, not just 
+refactoring.
 
 */
 
