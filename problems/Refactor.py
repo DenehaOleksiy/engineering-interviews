@@ -1,6 +1,6 @@
 # Refactoring
 #
-# The following function currently exists: please refactor this code so that it's:
+# The following function currently exists as is. Please refactor this code so that it's:
 #
 # - readable
 # - testable
@@ -8,7 +8,7 @@
 #
 # You do not need to write working code, just some pseudo code in the language of your choice.
 #
-# Explain to me why you made each change and how it helps with one of the following categories:
+# The key to this problem is to **CLEARLY EXPLAIN** why each change was made and how it helps with one of the following categories:
 #
 # - Readability
 # - Testing
