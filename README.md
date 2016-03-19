@@ -6,9 +6,11 @@ You will find **4** problems in the [problems](https://github.com/verygoodgroup/
 
 ## Step 1
 
-Please fork this repository
+Please fork this repository. 
 
 ## Step 2
+
+Create a branch on your fork. Then,
 
 You may either:
 
@@ -24,7 +26,9 @@ You may either:
 
 ## Step 3
 
-Make a pull request against *YOUR* fork (not ours)
+Make a pull request against *YOUR* fork.
+
+**DO NOT CREATE A PULL REQUEST AGAINST OUR FORK**
 
 ## Step 4
 
